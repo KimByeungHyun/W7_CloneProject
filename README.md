@@ -68,3 +68,9 @@ https://joyfive.notion.site/C-1-SA-582e3f58ec414bdaa30730374620cf47
 ## 📜 ERD Table
 
 ![image](https://user-images.githubusercontent.com/113872554/199542267-f6fef378-126a-42e5-a7da-52bcf59743ff.png)
+
+
+
+
+
+[![Video Lable](http://img.youtube.com/vi/'6ho4HjvkOeA'/0.jpg)](http://youtu.be/'6ho4HjvkOeA')
